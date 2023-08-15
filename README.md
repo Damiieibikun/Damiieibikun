@@ -7,7 +7,7 @@
     <!-- * 📫 damiieibikun@gmail.com
     *  🌐 https://damiieibikun.github.io/ --!>
 
-  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  [![Mail Badge](https://img.shields.io/badge/Damiieibikun-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:damiieibikun@gmail.com)
 
 <h3>Skills</h3>
