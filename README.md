@@ -7,7 +7,8 @@
     * 📫 damiieibikun@gmail.com
     *  🌐 https://damiieibikun.github.io/
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap)](https://skillicons.dev)
+<h3>Skills</h3>
+[![My Skills](https://skillicons.dev/icons?i=py,notebook,html,css,bootstrap)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damiieibikun)](https://github.com/anuraghazra/github-readme-stats)
 
