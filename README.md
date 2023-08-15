@@ -3,8 +3,10 @@
 * 🔭 I’m currently working on my online portfolio and improving my skills in Data science and Machine learning
 * 📊 I’m currently learning Machine learning and deep learning algorithms
 * 👯 I’m looking to collaborate on Data Science and Machine learning projects
-*  How to reach me:
-  
+<br>
+
+<h3>Email</h3>
+
 [![Mail Badge](https://img.shields.io/badge/Damiieibikun-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:damiieibikun@gmail.com)
 
@@ -12,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
-<h3>Tools I use</h3>
+<h3>Tools I frequently use</h3>
 <div >
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
