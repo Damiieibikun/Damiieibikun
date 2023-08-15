@@ -10,6 +10,10 @@
   [![Mail Badge](https://img.shields.io/badge/Damiieibikun-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:damiieibikun@gmail.com)
 
+  [![Website Badge](https://img.shields.io/badge/Damilola-Ibikunle-000000?style=for-the-badge&logo=About.me&logoColor=white
+)](https://damiieibikun.github.io/)
+
+
 <h3>Skills</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap&theme=dark)](https://skillicons.dev)
