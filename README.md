@@ -4,8 +4,11 @@
 * 📊 I’m currently learning Machine learning and deep learning algorithms
 * 👯 I’m looking to collaborate on Data Science and Machine learning projects
 *  How to reach me:
-    * 📫 damiieibikun@gmail.com
-    *  🌐 https://damiieibikun.github.io/
+    <!-- * 📫 damiieibikun@gmail.com
+    *  🌐 https://damiieibikun.github.io/ --!>
+
+  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:damiieibikun@gmail.com)
 
 <h3>Skills</h3>
 
