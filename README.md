@@ -4,15 +4,8 @@
 * 📊 I’m currently learning Machine learning and deep learning algorithms
 * 👯 I’m looking to collaborate on Data Science and Machine learning projects
 *  How to reach me:
-    <!-- * 📫 damiieibikun@gmail.com
-    *  🌐 https://damiieibikun.github.io/ --!>
-
-  [![Mail Badge](https://img.shields.io/badge/Damiieibikun-D14836?style=for-the-badge&logo=gmail&logoColor=white
+    *[![Mail Badge](https://img.shields.io/badge/Damiieibikun-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:damiieibikun@gmail.com)
-
-  [![Website Badge](https://img.shields.io/badge/Damilola-Ibikunle-000000?style=for-the-badge&logo=About.me&logoColor=white
-)](https://damiieibikun.github.io/)
-
 
 <h3>Skills</h3>
 
@@ -28,4 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damiieibikun&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damiieibikun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Website Badge](https://img.shields.io/badge/DamilolaIbikunle-000000?style=for-the-badge&logo=About.me&logoColor=white
+)](https://damiieibikun.github.io/)
 
