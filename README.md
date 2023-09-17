@@ -1,8 +1,8 @@
 <h1 align = "center">  Hello I am Damilola 👋 :computer: </h1>
 
-* 🔭 I’m currently working on my online portfolio and improving my skills in Data science and Machine learning
-* 📊 I’m currently learning Machine learning and deep learning algorithms
-* 👯 I’m looking to collaborate on Data Science and Machine learning projects
+* 🔭 I am constantly working on my online portfolio while improving my skills in Data science and Machine learning
+* 📊 I am constantly learning Data science, Machine learning and deep learning using Python
+* 👯 I am looking to collaborate on Data Science and Machine learning projects
 
 <h3>Email</h3>
 
