@@ -9,6 +9,8 @@
 [![Mail Badge](https://img.shields.io/badge/Damiieibikun-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:damiieibikun@gmail.com)
 
+<h3>Linkedin</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/Damilola-Ibikunle-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damilola-ibikunle-336971106)
 
 <h3>Skills</h3>
