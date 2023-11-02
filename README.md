@@ -15,7 +15,7 @@
 
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css&theme=dark)](https://skillicons.dev)
 
 <h3>Tools I frequently use</h3>
 <div >
