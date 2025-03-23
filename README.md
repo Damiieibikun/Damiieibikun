@@ -15,7 +15,7 @@
 
 <h3>Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,py&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,vite,jquery,tailwind,mongodb,nodejs,express,py&theme=dark)](https://skillicons.dev)
 
 <h3>Tools I frequently use</h3>
 <div >
